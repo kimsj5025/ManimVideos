@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/kimsj5025/Public/개발/Manim/media/videos/esp32Explain/480p15/partial_movie_files/Soge/1185818338_942311040_2552308481.mp4'
